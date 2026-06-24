@@ -31,7 +31,7 @@ a { text-decoration: none; color: #333; }
 .gnb::before {
     content: "";
     display: block;
-    width: 100vx;
+    width: 100vw;
     height: 0px;
     overflow-y: hidden;
     background-color: #fff;
@@ -134,7 +134,7 @@ a { text-decoration: none; color: #333; }
 .gnb .sub li a {
     display: block;
     text-overflow: ellipsis;
-    white-space: auto;
+    white-space: normal;
 }
 
 .gnb .sub li:hover a {
