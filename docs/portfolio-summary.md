@@ -28,8 +28,8 @@ HTML/CSS 학습 초기에 제작한 안산 문화관광 정적 웹사이트로, 
 
 ## 링크
 
-- GitHub: https://github.com/woongpro416/ansan-tour-live
-- Live Demo: https://woongpro416.github.io/ansan-tour-live/
+- GitHub: https://github.com/woongpro416/ansan-culture-tour
+- Live Demo: https://woongpro416.github.io/ansan-culture-tour/
 
 ## 배운 점
 

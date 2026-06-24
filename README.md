@@ -38,8 +38,8 @@ VS Code Live Server 확장을 사용해도 됩니다.
 
 ## 링크
 
-- GitHub: https://github.com/woongpro416/ansan-tour-live
-- Live Demo: https://woongpro416.github.io/ansan-tour-live/
+- GitHub: https://github.com/woongpro416/ansan-culture-tour
+- Live Demo: https://woongpro416.github.io/ansan-culture-tour/
 
 ## 폴더 구조
 
