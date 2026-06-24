@@ -36,6 +36,11 @@ python -m http.server 8000
 
 VS Code Live Server 확장을 사용해도 됩니다.
 
+## 링크
+
+- GitHub: https://github.com/woongpro416/ansan-tour-live
+- Live Demo: https://woongpro416.github.io/ansan-tour-live/
+
 ## 폴더 구조
 
 ```text

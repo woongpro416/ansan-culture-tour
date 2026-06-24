@@ -26,6 +26,11 @@ HTML/CSS 학습 초기에 제작한 안산 문화관광 정적 웹사이트로, 
 - Responsive CSS
 - Local font assets
 
+## 링크
+
+- GitHub: https://github.com/woongpro416/ansan-tour-live
+- Live Demo: https://woongpro416.github.io/ansan-tour-live/
+
 ## 배운 점
 
 - 공통 레이아웃을 여러 페이지에 반복 적용하면서 헤더, 내비게이션, 푸터 구조를 이해했습니다.
